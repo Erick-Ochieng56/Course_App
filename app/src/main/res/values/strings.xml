@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+    <string name="hi_alex">Hi Alex</string>
+    <string name="_169">$169</string>
+    <string name="see_all">See All</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="what_would_you_like_to_nlearn_today">What would you like to\nlearn today?</string>
+</resources>
